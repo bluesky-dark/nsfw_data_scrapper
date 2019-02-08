@@ -1,5 +1,6 @@
 Fork from https://github.com/alexkimxyz/nsfw_data_scrapper
 从https://github.com/alexkimxyz/nsfw_data_scrapper fork
+已删除raw_data/porn/urls_porn.txt
 
 # NSFW Data Scrapper
 
