@@ -1,3 +1,6 @@
+#Fork from https://github.com/alexkimxyz/nsfw_data_scrapper
+#从https://github.com/alexkimxyz/nsfw_data_scrapper fork
+
 # NSFW Data Scrapper
 
 ## Description
